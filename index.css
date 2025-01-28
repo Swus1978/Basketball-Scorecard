@@ -35,10 +35,6 @@ body {
     line-height: 126.7px;
     font-size: 90px;
     font-family: Cursed Timer ULiL;
-
-
-
-
 }
 
 button  {
@@ -53,6 +49,8 @@ button  {
     justify-content: space-between;
     margin: 2.5px;
     margin-top: 20px;
+    font-family: Cursed Timer ULiL;
+
 }
 
 .home-title {
