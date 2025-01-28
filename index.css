@@ -3,6 +3,7 @@ body {
     background-color: #1B244A;
     color: #EEEEEE;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 
 }
 
@@ -13,9 +14,14 @@ h1 {
 
 .container {
     position: relative;
+    left: 465px;
     top: 150px;
     display: flex;
     justify-content: space-around;
+    width: 575px;
+    height: 385px;
+    border: solid #EEEEEE  5px;
+    border-radius: 5px;
 }
 
 .scoreboard {
