@@ -2,9 +2,18 @@ body {
     margin: 0;
     background-color: #1B244A;
     color: #EEEEEE;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1 {
+    position: absolute;
+    left: 550px;
 }
 
 .container {
+    position: relative;
+    top: 150px;
     display: flex;
     justify-content: space-around;
 }
@@ -19,7 +28,7 @@ body {
 #home {
     align-items: center;
     justify-content: center;
-    margin-left: 50px;
+    margin-left: 30px;
     color: #F94F6D;
     line-height: 126.7px;
     font-size: 90px;
@@ -30,7 +39,7 @@ body {
 #guest {
     align-items: center;
     justify-content: center;
-    margin-left: 50px;
+    margin-left: 30px;
     color: #F94F6D;
     line-height: 126.7px;
     font-size: 90px;
