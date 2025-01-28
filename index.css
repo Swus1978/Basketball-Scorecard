@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+    color: #EEEEEE;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.scoreboard {
+    background-color: #080001;
+    height: 120px;
+    width: 155px;
+    
+}
+
+#home {
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    color: #F94F6D;
+    line-height: 126.7px;
+    font-size: 90px;
+    font-family: Cursed Timer ULiL;
+
+}
+
+#guest {
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    color: #F94F6D;
+    line-height: 126.7px;
+    font-size: 90px;
+    font-family: Cursed Timer ULiL;
+
+
+
+
+}
+
+button  {
+    background-color: #1B244A;
+    color: #EEEEEE;
+    line-height: 27.8px;
+    height: 45px;
+    width: 45px;
+    border-radius: 5px;
+    border: solid #EEEEEE;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2.5px;
+    margin-top: 20px;
+}
+
+.home-title {
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 10px;
+    width: 149px;
+    height: 36px;
+    font-weight: bold;
+    line-height: 35.9px;
+    margin-left: 10px;
+    font-size: 35.9px;
+
+}
+
+.guest-title {
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 10px;
+    width: 149px;
+    height: 36px;
+    font-weight: bold;
+    line-height: 35.9px;
+    margin-left: 10px;
+    font-size: 35.9px;
+
+
+    
+}
